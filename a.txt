@@ -1,2 +1,1 @@
-git status
 right git file a.txt
