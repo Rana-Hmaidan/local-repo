@@ -1,1 +1,1 @@
-right git file a.txt
+some thing text
